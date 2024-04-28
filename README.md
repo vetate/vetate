@@ -5,7 +5,7 @@
    <!-- Vs Code -->
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/></a>
    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
-    <img src="[https://icons8.com/icon/39852/php-logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)" alt="PHP" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
  
    <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png"width="40" height="40" /></a>
    <!-- CSS -->
