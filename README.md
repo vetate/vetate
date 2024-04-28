@@ -14,7 +14,7 @@
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/></a>
 </p>
 
-   <img src="https://giphy.com/stickers/transparent-loading-pixeldk-XH8aAiiVNuTaPVBLKd" width="100%" height="100%" /></a>
+   <img src="https://i.gifer.com/origin/6a/6a2dfb96f278692f0900cc08975efe0e_w200.gif" width="100%" height="100%" /></a>
 
 
 
