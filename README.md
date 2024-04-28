@@ -3,7 +3,7 @@
 </p>
 <div align="center">
       <img alt="Ve's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=vetate&langs_count=6&layout=compact&theme=dracula&bg_color=252422&title_color=f1faee&icon_color=ccc5b9&border_color=f1faee" height="170px"/>
-      <h3> Languages and Tools :</h3>
+      <h3> Languages and Tools </h3>
       <p align="center">
          <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
