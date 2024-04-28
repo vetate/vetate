@@ -21,7 +21,15 @@
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/></a>
 </p>
 
+**I Mostly Code in TypeScript** 
 
+```text
+TypeScript               6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+HTML                     5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+```
 <!--
 **vetate/vetate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
