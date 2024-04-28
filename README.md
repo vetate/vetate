@@ -1,4 +1,4 @@
-<p align="center"> Loading Profile... <br>
+<p align="center"> Loading Info... <br>
 <img src="https://i.gifer.com/origin/6a/6a2dfb96f278692f0900cc08975efe0e_w200.gif" width="180" height="180" /></a> 
 </p>
 <div align="center">
