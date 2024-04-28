@@ -13,8 +13,6 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>
    <!-- Html -->
    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="Html" width="40" height="40"/></a>
-   <!-- Git -->
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
    <!-- Visual Studio -->
    <img src="https://img.icons8.com/fluency/48/null/visual-studio.png" alt="Visual Studio" width="40" height="40"/></a>
    <!-- Bash -->
