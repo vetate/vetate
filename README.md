@@ -4,6 +4,7 @@
 <p>
    <!-- Vs Code -->
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/></a>
+   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
    <!-- CSS -->
    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/></a>
    <!-- Python -->
@@ -18,6 +19,7 @@
    <img src="https://img.icons8.com/fluency/48/null/visual-studio.png" alt="Visual Studio" width="40" height="40"/></a>
    <!-- Bash -->
    <img src="https://img.icons8.com/ios-glyphs/60/79589f/console.png" alt="Bash"  width="40" height="40"/></a>
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
 </p>
 
 
