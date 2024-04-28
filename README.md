@@ -1,8 +1,8 @@
 <p align="center"> Loading Profile... <br>
 <img src="https://i.gifer.com/origin/6a/6a2dfb96f278692f0900cc08975efe0e_w200.gif" width="180" height="180" /></a> 
 </p>
-<img align="center" alt="Ve's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=vetate&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E" height="198px"/>
 <div align="center">
+      <img alt="Ve's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=vetate&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E" height="198px"/>
       <h3> Languages and Tools :</h3>
       <p align="center">
          <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
