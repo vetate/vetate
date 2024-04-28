@@ -17,6 +17,7 @@
          <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/></a>
       </p>
 </div>
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
   
 <!--
 **vetate/vetate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
