@@ -16,7 +16,7 @@
          <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
          <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/></a>
       </p>
-      ![Snake animation](https://github.com/vetate/vetate/blob/output/github-contribution-grid-snake.svg)
+      ![snake gif](https://github.com/vetate/vetate/blob/output/github-contribution-grid-snake.gif)
 </div>
 
   
