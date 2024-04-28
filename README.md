@@ -1,7 +1,6 @@
 <p align="center"> Loading Profile... <br>
 <img src="https://i.gifer.com/origin/6a/6a2dfb96f278692f0900cc08975efe0e_w200.gif" width="180" height="180" /></a> 
 </p>
-
 <img alt="Ve's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=vetate&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E" height="198px"/>
 
 <h3>🛠 Languages and Tools :</h3>
@@ -18,13 +17,10 @@
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/></a>
 </p>
 
-  🧟‍♀️ Hi there
-
-
-
+  
 <!--
 **vetate/vetate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 
