@@ -19,7 +19,6 @@
 
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/vetate/vetate/output/github-contribution-grid-snake-dark.svg)
 <!--
 **vetate/vetate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
