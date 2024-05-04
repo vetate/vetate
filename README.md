@@ -3,7 +3,7 @@
 </p>
 <div align="center">
       
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vetate&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)   
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vetate&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)   
 
 
 ## 💻 Tech Stack:
