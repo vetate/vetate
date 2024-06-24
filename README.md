@@ -1,5 +1,5 @@
-<p align="center"> Loading Info... <br>
-<img src="https://i.gifer.com/origin/6a/6a2dfb96f278692f0900cc08975efe0e_w200.gif" width="180" height="180" /></a> 
+<p align="center">
+<img src="https://cdn.prod.website-files.com/616e7bd6ab5a089243ca2fcf/6385f158b1e44860fd046d46_Hedy%20Lamarr%20The%20Mother%20of%20Wireless%20Technology%2021.jpg" width="524" height="294" /></a> 
 </p>
 <div align="center">
       
